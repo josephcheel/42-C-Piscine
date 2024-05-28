@@ -11,9 +11,12 @@
 
 | Folder | Title | Subject Concepts | Description |
 |:---:|:---:|:---:|:---:|
-| ex00 | ft_strlen |  | recode strlen C function |
-| ex01 | ft_putstr | | function that prints a string |
-| ex02 | ft_putnbr | function that prints a nbr |
-| ex03 | ft_atoi | | recode atoi function |
-| ex04 | ft_putnbr_base | | function that prints a nbr in the specified base |
-| ex05 | ft_atoi_base |  | function that returns a nbr in the specified base |
+| ex00 | ft_iterative_factorial | factorial, itreration | function that return the factorial of a nbr |
+| ex01 | ft_recursive_factorial | factorial, recursivity | function that return the factorial of a nbr |
+| ex02 | ft_iterative_power | exponentiation, iteration | function that return a nbr to the power of another |
+| ex03 | ft_recursive_power | exponentiation, recursivity | function that return a nbr to the power of another |
+| ex04 | ft_fibonacci | fibonacci numbers | function that return the index fibonacci result |
+| ex05 | ft_sqrt |  square root| function that returns the result of rational square root opeartion |
+| ex05 | ft_is_prime |  | function that returns 1 if the nbr is prime and 0 if not |
+| ex05 | ft_find_next_prime |  | function that returns the next greater or equal prime |
+| ex05 | The Ten Queens |  |  |
